@@ -1,0 +1,12 @@
+{
+  "name": "rateLab-backend",
+  "description": "RateLab backend services",
+  "author": "jp.proverbio@idealgap.co.nz",
+  "dependencies": {
+    "firebase-admin": "^5.5.0",
+    "firebase-functions": "^0.7.3",
+    "md5": "^2.2.1",
+    "nodemailer": "^4.4.0",
+    "promise": "^7.3.1"
+  }
+}
