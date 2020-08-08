@@ -15,11 +15,11 @@ const mailTransport = nodemailer.createTransport({
     port: 465,
     secure: true,
     auth: {
-      user: "nav.brar@idealgap.co.nz",
-      pass: "123.123.123"
+      user: "xxx@idealgap.co.nz",
+      pass: "xxx"
     }
 });
-const adminEmail = 'jp.proverbio@idealgap.co.nz';
+const adminEmail = 'xxx@idealgap.co.nz';
 
 admin.initializeApp(functions.config().firebase);
 // [END initialize]
